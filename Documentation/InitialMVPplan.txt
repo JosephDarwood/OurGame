@@ -1,0 +1,20 @@
+Team personal project:
+Joseph Priority
+1. Github
+2. We have to learn something new
+3. Has to be unique
+4. Must have Unit Tests
+5. Must have documentation in code
+Brad Priority:
+1. Object oriented design patterns
+2. Documentation for system design
+3. Efficient and industry standard design patterns. 
+Shreyas Priority:
+1. Graphics
+2. Optimization of graphics (speed and also quality)
+Aziz Priority:
+Learn from us. 
+
+
+What to build? 
+Roguelike 2d, 1 zone, 1 boss fight, 1 melee, 1 ranged.
